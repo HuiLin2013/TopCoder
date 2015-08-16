@@ -1,1 +1,2 @@
 # TopCoder
+Personal coding practices
