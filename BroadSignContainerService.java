@@ -32,8 +32,6 @@ import com.sun.jna.ptr.PointerByReference;
 
 /**
  * Module that can receive requests for changing the dispenser connected to this broker.
- * 
- * @author Steve Schwalowski
  */
 public class BroadSignContainerService extends AbstractServer {
 
